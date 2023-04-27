@@ -34,6 +34,6 @@ Estes são projetos que estão no momento em andamento, alguns projetos são pub
 
 
 Estou trazendo muito sobre técnologia no meus canais no youtube segue os links.
-[<img src='[[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FGreenium-Team%2Fyoutube-on-tv&psig=AOvVaw2MO5D5y05332NMfdWKd7fM&ust=1682716099839000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiFj438yv4CFQAAAAAdAAAAABAE)](https://user-images.githubusercontent.com/82728993/120358385-b7743b00-c306-11eb-8aec-c3caef3c43a0.jpg)' alt='youtube' height='40'>]
+[<img src='https://user-images.githubusercontent.com/82728993/120358385-b7743b00-c306-11eb-8aec-c3caef3c43a0.jpg' alt='youtube' height='40'>] @guilhermeensina
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/guilherme-sousa-308b20125//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](controlaae.com.br)  
